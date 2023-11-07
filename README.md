@@ -14,7 +14,7 @@ The application uses Swift MVP Architecture, utilizing Combine to make API calls
  
  1. Networking: Responsible for making the connection with the API. 
  2. Model: The Data folder contains the Entities Models.
- 3. Presentation: Composed by the Views of the application created in SwiftUI.
+ 3. Presentation: Composed by the Views of the application created in UIKit.
  4. Presenters: In charge of having the logic and the connection between the View and the Model.
  5. Mocks: Models and Views Using to Unit tests.
 
