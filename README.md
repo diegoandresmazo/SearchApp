@@ -8,7 +8,7 @@ Search App Challenge using MercadoLibre API
 4. open SearchApp.xcworkspace
 
 ## `Architecture`
-The application uses Swift MVVP Architecture, utilizing Combine to make API calls and UIKit to make the Views.
+The application uses Swift MVP Architecture, utilizing Combine to make API calls and UIKit to make the Views.
 
  The Search App is separated in 4 parts:
  
